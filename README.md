@@ -92,8 +92,8 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 > Voice-to-action AI task manager powered by **ZentriXA**, an AI assistant that converts speech into executable actions.
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
 |                |                                                      |
 | -------------- | ---------------------------------------------------- |
@@ -104,12 +104,11 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/Task_manager)
 
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="hhttps://res.cloudinary.com/dgbkepcti/image/upload/v1781290784/website-front/tickzen_vd06ui.png" alt="TickZen Preview" width="100%" style="border-radius: 8px;" />
-    </td>
-
-  </tr>
+</td>
+<td width="40%" valign="top" align="center">
+<a href="https://tickzen.in.net/"><img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290784/website-front/tickzen_vd06ui.png" alt="TickZen Preview" width="100%" style="border-radius: 8px;" /></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -119,8 +118,8 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 > Healthcare SaaS connecting patients, mentors, recovered users, and doctors in one ecosystem.
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
 |           |                                                |
 | --------- | ---------------------------------------------- |
@@ -130,12 +129,11 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/MedTrackFit)
 
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290784/website-front/medtrackfit_tgqxlh.png" alt="MedTrackFit Preview" width="100%" style="border-radius: 8px;" />
-    </td>
-
-  </tr>
+</td>
+<td width="40%" valign="top" align="center">
+<a href="https://medtrackfit.in.net"><img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290784/website-front/medtrackfit_tgqxlh.png" alt="MedTrackFit Preview" width="100%" style="border-radius: 8px;" /></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -145,17 +143,16 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 > Modern communication and collaboration platform built for real-time interaction.
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/VARTALAP)
 
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290783/website-front/vartalap_wc7uzf.png" alt="VARTALAP Preview" width="100%" style="border-radius: 8px;" />
-    </td>
-
-  </tr>
+</td>
+<td width="40%" valign="top" align="center">
+<a href="https://vartalap.in.net"><img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290783/website-front/vartalap_wc7uzf.png" alt="VARTALAP Preview" width="100%" style="border-radius: 8px;" /></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -165,8 +162,8 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 > A premium AI-driven fashion discovery and styling platform delivering personalized luxury experiences powered by intelligent recommendations.
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
 |                |                                                 |
 | -------------- | ----------------------------------------------- |
@@ -177,12 +174,11 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PROTOX11/Aura-Elysian)
 
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290784/website-front/aura_z5wms1.png" alt="Aura Elysian Preview" width="100%" style="border-radius: 8px;" />
-    </td>
-
-  </tr>
+</td>
+<td width="40%" valign="top" align="center">
+<a href="https://auraelysian.shop"><img src="https://res.cloudinary.com/dgbkepcti/image/upload/v1781290784/website-front/aura_z5wms1.png" alt="Aura Elysian Preview" width="100%" style="border-radius: 8px;" /></a>
+</td>
+</tr>
 </table>
 
 ---
