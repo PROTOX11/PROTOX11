@@ -2,7 +2,7 @@
 
 # Hey, I'm Prakash Kumar 👋
 
-**DevOps Engineer · Cloud Engineer · SRE · AI/ML Developer · Full Stack**
+**Fullstack · AI · DevOps**
 
 _Building scalable infrastructure, intelligent systems, and impactful products._
 
@@ -30,23 +30,23 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 ## Languages
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,javascript,bash,sql&theme=dark" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,bash,sql&theme=dark" height="45" />
 
 ## Frontend
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" height="45" />
 
 ## Backend & Databases
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,mongodb,mysql&theme=dark" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,mongodb,mysql&theme=dark" height="45" />
 
 ## Cloud & DevOps
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,githubactions,nginx,terraform&theme=dark" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,githubactions,nginx,terraform&theme=dark" height="45" />
 
 ## AI / ML
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45" />
 &nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="18" />
 <img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square&logo=openai&logoColor=white" height="18" />
@@ -54,7 +54,7 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 ## Tools & Platforms
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,grafana,prometheus&theme=dark" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,grafana,prometheus&theme=dark" height="45" />
 &nbsp;
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="18" />
 <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" height="18" />
