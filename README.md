@@ -200,11 +200,11 @@ _Building scalable infrastructure, intelligent systems, and impactful products._
 
 ## 🏆 Certifications
 
-![IBM](https://img.shields.io/badge/IBM_PBEL_Virtual_Internship-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Data_Science-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![AICTE](https://img.shields.io/badge/AICTE_Innovation_Bootcamp-FF6B00?style=flat-square&logoColor=white)
-![Guvi](https://img.shields.io/badge/Guvi_HCL_Python-00A86B?style=flat-square&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack_Test_Automation-FF6C37?style=flat-square&logo=browserstack&logoColor=white)
+[![IBM](https://img.shields.io/badge/IBM_PBEL_Virtual_Internship-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.ibmmooc.skillsnetwork.site/certificates/bc123576e857484babddcbe857a6ba73)
+[![Cisco](https://img.shields.io/badge/Cisco_Data_Science-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/ad2ca419-b7c6-415b-9386-85bf91284166/print)
+[![AICTE](https://img.shields.io/badge/AICTE_Innovation_Bootcamp-FF6B00?style=flat-square&logoColor=white)](https://alumniapi.mic.gov.in/api/certificates/16525/69283)
+[![Guvi](https://img.shields.io/badge/Guvi_HCL_Python-00A86B?style=flat-square&logoColor=white)](https://www.guvi.in/certificate?id=q5246oyHz5TE7J7314)
+[![BrowserStack](https://img.shields.io/badge/BrowserStack_Test_Automation-FF6C37?style=flat-square&logo=browserstack&logoColor=white)](https://drive.google.com/file/d/1luzF4Z-lQyJDQ74l6lqTl6eNGdY3AbyN/view?usp=drive_link)
 
 ---
 
