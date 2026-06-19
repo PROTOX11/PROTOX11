@@ -310,9 +310,9 @@
   59.704% { transform: translate(709px,103px) rotate(0deg); }
   60.086% { transform: translate(723px,103px) rotate(0deg); }
   60.469% { transform: translate(737px,103px) rotate(0deg); }
-  60.852% { transform: translate(751px,103px) rotate(0deg); }
-  61.235% { transform: translate(765px,103px) rotate(270deg); }
-  61.617% { transform: translate(765px,89px) rotate(270deg); }
+  60.852% { transform: translate(751px,103px) rotate(270deg); }
+  61.235% { transform: translate(751px,89px) rotate(270deg); }
+  61.617% { transform: translate(751px,75px) rotate(0deg); }
   62.0% { transform: translate(765px,75px) rotate(0deg); }
   62.1% { transform: translate(765px,75px) rotate(0deg); }
   90%   { transform: translate(765px,75px) rotate(0deg); }
@@ -647,7 +647,7 @@
 <rect x="718" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="732" y="84" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="746" y="84" width="11" height="11" rx="2" fill="#161b22"/>
-<rect x="760" y="84" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="760" y="84" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="32" y="98" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="46" y="98" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="60" y="98" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
@@ -700,7 +700,7 @@
 <rect x="718" y="98" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="732" y="98" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="746" y="98" width="11" height="11" rx="2" fill="#161b22"/>
-<rect x="760" y="98" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="760" y="98" width="11" height="11" rx="2" fill="#00e650" filter="url(#glow)"/>
 <rect x="32" y="112" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="46" y="112" width="11" height="11" rx="2" fill="#00ff7f" filter="url(#glow)"/>
 <rect x="60" y="112" width="11" height="11" rx="2" fill="#161b22"/>
